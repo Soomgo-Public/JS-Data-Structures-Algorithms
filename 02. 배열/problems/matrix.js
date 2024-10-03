@@ -5,6 +5,13 @@
 
 let matrix = [];
 function createMatrix() {
+	// for (let i = 0; i < 3; i++) {
+	// 	matrix[i] = [];
+	// 	for (let j = 0; j < 3; j++) {
+	// 		matrix[i][j] = { i: i, j: j, z: i * 3 + j };
+	// 	}
+	// }
+
 	console.log(matrix);
 }
 

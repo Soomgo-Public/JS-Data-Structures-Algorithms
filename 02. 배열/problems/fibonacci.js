@@ -4,6 +4,13 @@
 
 let fibonacci = [];
 function createFibonacci() {
+	// if (n <= 0) return;
+	// fibonacci[0] = 0;
+	// if (n > 1) fibonacci[1] = 1;
+	// for (let i = 2; i < n; i++) {
+	// 	fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
+	// }
+
 	console.log(fibonacci);
 }
 
