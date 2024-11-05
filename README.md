@@ -4,6 +4,26 @@
 
 <br />
 
+## 학습 기록
+
+<ol>
+  <li>
+    <a href="./02. 배열/README.md">배열</a>
+  </li>
+  <li>
+    <a href="./03. 스택/README.md">스택</a>
+  </li>
+  <li>
+    <a href="./04. 큐/README.md">큐</a>
+  </li>
+  <li>
+    <a href="./05. 연결 리스트/README.md">연결 리스트</a>
+  </li>
+  <li>
+    <a href="06. 집합/README.md">집합</a>
+  </li>
+</ol>
+
 ## 🤖 함께하는 사람
 
 <table>
