@@ -178,3 +178,9 @@ tree.insert(14);
 tree.insert(20);
 tree.insert(18);
 tree.insert(25);
+
+tree.printNode();
+
+tree.remove(15);
+
+tree.printNode();
