@@ -8,7 +8,7 @@
 
 트리는 부모-자식 관계를 가진 다수의 노드로 구성된다. 최상위 노드인 루트(root)를 제외한 모든 노트는 부모 노드를 가지고 있으며, 다수의 자식 노드를 가질 수도 있고, 아예 없을 수도 있다.
 
-![트리](https://i.namu.wiki/i/G_LqYc_VP49iAxBIvqG8E2llPoiv_wR9asagEs9oEdy7AuggeeNsIPtpSiMx2Yj53twuC6N-5Zm8KDjlE_ziRYW1ab4yNb2XnPA8pB5k-XTioCULWavnrfmQNMhP4bp7EUsy2PeG1sL0GZRnQ1mcjQ.webp)
+![트리](https://i.namu.wiki/i/Ye62cgolsPsR6bBWPuldZsrymF1kfx2tQjbwZ8-DgYwA7MKdVKVUbYd0VYlA3ws8QoeDeY35seAdNZfDpG6uVdWTjXuym62ytgsZMYu2A7UGDLi3sK1_IWw9FOLqnqy5yC8SxZcywWozwnYkuussUg.webp)
 
 - 루트(root): 최상위 노드, 부모가 없는 노드
 - 내부 노드: 자식이 하나 이상이 존재하는 노드
