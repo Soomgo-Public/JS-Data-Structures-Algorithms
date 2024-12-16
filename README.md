@@ -25,6 +25,12 @@
   <li>
     <a href="07. 딕셔너리와 해시/README.md">딕셔너리와 해시</a>
   </li>
+  <li>
+    <a href="08. 트리/README.md">트리</a>
+  </li>
+  <li>
+    <a href="09. 그래프/README.md">그래프</a>
+  </li>
 </ol>
 
 <br/>
